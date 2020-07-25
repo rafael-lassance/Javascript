@@ -1,2 +1,2 @@
 # Olá mundo
- Repositório para testes no git
+ Repositório para testes no github
