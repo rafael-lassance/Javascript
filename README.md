@@ -1,2 +1,2 @@
 # Javascript
- Repositório para projetos em Javascript
+ Repositório para projetos em Javascript.
